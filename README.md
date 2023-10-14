@@ -1,9 +1,9 @@
 # Exam-Quest
 
-Exam Quest is a web-based application that helps students find and download exam papers free of cost, of their registered universities.
+Exam Quest is a web-based application that helps students find and download exam papers of their registered universities.
 A student who is preparing for an exam can log in to the exam quest application and see a list of all the registered universities. 
-The student can then click on paper section to see a list of all the exam papers available for that university. 
-The student can then click on a download link to download the paper.
+The student can then click on a download link to download the paper free of cost.
+
 The application has two types of users:  admin and students.
 
 Student Panel:
