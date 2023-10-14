@@ -11,7 +11,7 @@ Student Panel:
 Students need to register and log in to access their panel.
 Once logged in, students can see a list of all the registered universities.
 Students can click on a button that has download link to download the paper.
-The student panel also has a contact us form where students can submit queries or ask for help with paper links.
+The student panel also has a contact us form where students can submit queries or ask for help for paper links.
 
 Admin Panel:
 
