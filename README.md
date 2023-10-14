@@ -21,7 +21,7 @@ Admin can add paper details for each university, including the university name, 
 Admin can check queries or help requests made by students through the contact us form and respond to them by email(the email link is in admin portal).
 Admin can also make announcements, such as when new paper links will be uploaded.
 
-Technologies used: HTML,CSS,Bootstrap,JSP,Java-J2EE,JDBC,SQLYog(MySQL)
+Technologies used: HTML,CSS,Bootstrap,JSP,Java-J2EE,JDBC,SQLYog(MySQL).
 
 The dynamic web project runs on Apache Tomcat v8.0 Server at localhost.
 
